@@ -1,16 +1,9 @@
-# 🍽️ TummyTreats
+# 🍽️ Foodie
 
-**TummyTreats** is a full-stack web application for browsing, managing, and ordering delicious vegetarian dishes. Built using the MERN stack (MongoDB, Express, React, Node.js) and deployed on Render.
-
----
-
-## 🔗 Live Links
-
-- 🌐 Frontend: [https://frontend-tummytreats.onrender.com](https://tummytreats-frontend.onrender.com)
-- 🛠️ Admin Panel: [https://admin-tummytreats.onrender.com](https://tummytreats-admin.onrender.com)
-- ⚙️ Backend API: [https://tummytreats.onrender.com](https://tummytreats.onrender.com)
+**Foodie** is a full-stack web application for browsing, managing, and ordering delicious vegetarian dishes. Built using the MERN stack (MongoDB, Express, React, Node.js) and deployed on Render.
 
 ---
+
 
 
 ## ⚙️ Tech Stack
@@ -23,8 +16,7 @@
 | Auth      | Firebase Authentication     |
 | Database  | MongoDB + Firestore         |
 | Uploads   | Cloudinary                  |
-| Payments  | Stripe                      |
-| Deploy    | Render.com                  |
+| Payments  | Stripe                      |                 
 
 ---
 
@@ -38,6 +30,5 @@
 - 🔎 Search, sort, and filter functionality for end-users
 - 🛒 Persistent **cart and wishlist** synced across sessions
 - ⚡ Built using **Vite + Tailwind CSS** for blazing-fast frontend
-- ☁️ Full deployment on **Render.com**
 
 
