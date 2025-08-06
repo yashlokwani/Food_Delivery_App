@@ -6,7 +6,8 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "server": "nodemon server.js",
+    "dev": "nodemon server.js",
+    "build": "echo 'No build required'",
     "seed": "node seedDatabase.js"
   },
   "author": "",
