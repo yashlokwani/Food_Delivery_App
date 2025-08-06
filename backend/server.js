@@ -9,7 +9,7 @@ import orderRouter from "./routes/orderRoute.js"
 
 // app config
 const app = express()
-const port = process.env.PORT || 4003;
+
 
 
 // middlewares
@@ -30,4 +30,4 @@ app.get("/", (req, res) => {
     res.send("API Working")
   });
 
-app.listen(process.env.port, () => console.log(`Server started on http://localhost:${process.env.port}`))
+app.listen(process.env.PORT, () => console.log(`Server started on http://localhost:${process.env.PORT}`))
